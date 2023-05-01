@@ -1,7 +1,8 @@
 <div align="center">
+<img alt="Sloan, the sloth mascot" width="120px" src="https://thefullstack.network/assets/icons/thefullstack-circle.webp">
   <br>
   <h1>The Full Stack</h1>
-  <strong>Discover and connect with developers sharing their work.</strong>
+  <h3>Discover and connect with developers sharing their work.</h3>
 </div>
 <br>
 
@@ -48,12 +49,11 @@ Our version of the CLA was adapted from the Microsoft Contributor License
 Agreement, which they generously made available to the public domain under
 Creative Commons CC0 1.0 Universal.
 
-Any questions, please refer reach to the core team.
+Any questions, please reach out to the core team.
 
 <br>
 
 <p align="center">
-  <img alt="Sloan, the sloth mascot" width="250px" src="https://thepracticaldev.s3.amazonaws.com/uploads/user/profile_image/31047/af153cd6-9994-4a68-83f4-8ddf3e13f0bf.jpg">
   <br>
   <strong>Happy Coding</strong> ❤️
 </p>
