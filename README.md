@@ -48,10 +48,6 @@ The Full Stack is a community of software developers who share their work,
 contribute their feedback, connect to other developers and teams and build
 a network of value.
 
-## Developer Documentation
-
-TODO
-
 ## Core team
 
 - [@danoely1979](https://github.com/danoely1979)
@@ -76,6 +72,11 @@ Full Stack API.
     <strong>The Full Stack architecture</strong>
     <br>
 </p>
+
+## Running The Full Stack locally
+
+To get started and setup to run The Full Stack locally, see the README here within
+the webapp repo.
 
 ## How can I contribute?
 
