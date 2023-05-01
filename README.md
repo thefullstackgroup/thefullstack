@@ -58,12 +58,12 @@ We named it _The Full Stack_.
 ## The Full Stack projects
 
 The Full Stack platform consists of a React (NextJS) webapp that connects to
-many different microservices, such projects service, profile service, search
-service, etc. to name a few. There are also integrations with third parties such
-as Firebase (for auth), Firestore, Knock (notifications) and many cloud functions.
-Currently, we have made the webapp open source. We are in the process of creating
-The Full Stack API platform for developers to build their own apps on top of The
-Full Stack API.
+many different microservices, such as a projects service, profile service, search
+service, connections service etc. to name a few. There are also integrations with
+third parties such as Firebase (for auth), Firestore, Knock (notifications) and
+many cloud functions. Currently, we have made the webapp open source. We are in
+the process of creating The Full Stack API platform for developers to build their
+own apps on top of The Full Stack API.
 
 <p align="center">
 <br>
@@ -75,8 +75,9 @@ Full Stack API.
 
 ## Running The Full Stack locally
 
-To get started and setup to run The Full Stack locally, see the README here within
-the webapp repo.
+To get setup to run The Full Stack locally, see the README here within the webapp repo.
+If you need any help or have any questions on how we can improve, please reach out to
+anyone on the [core team](#core-team). We're friendly and open to chat.
 
 ## How can I contribute?
 
