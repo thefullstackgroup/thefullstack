@@ -59,6 +59,24 @@ TODO
 - [@jamiegood](https://github.com/jamiegood)
 - [@Henrique-Oliveira](https://github.com/Henrique-Oliveira)
 
+## The Full Stack projects
+
+The Full Stack platform consists of a React (NextJS) webapp that connects to
+many different microservices, such projects service, profile service, search
+service, etc. to name a few. There are also integrations with third parties such
+as Firebase (for auth), Firestore, Knock (notifications) and many cloud functions.
+Currently, we have made the webapp open source. We are in the process of creating
+The Full Stack API platform for developers to build their own apps on top of The
+Full Stack API.
+
+<p align="center">
+<br>
+    <img src="/assets/architecture.webp" alt="The Full Stack architecture" width="620">
+    <br>
+    <strong>The Full Stack architecture</strong>
+    <br>
+</p>
+
 ## How can I contribute?
 
 There are many ways to contribute to The Full Stack and we really encourage it.
@@ -71,24 +89,12 @@ You can contribute by:
 - Improving docs
 - Joining the discussion
 
-For more, read our [Contributing Guide](CONTRIBUTING.md). If you need help, feel
-free to reach out to anyone on the [core team](#core-team).
+For more, check out our [Contributing Guide](CONTRIBUTING.md). If you need help,
+feel free to reach out to anyone on the [core team](#core-team).
 
 ## License
 
-This program is free software: you can redistribute it and/or modify it under
-the terms of the GNU Affero General Public License as published by the Free
-Software Foundation, either version 3 of the License, or (at your option) any
-later version. Please see the [LICENSE](./LICENSE.md) file in our repository for
-the full text.
-
-Like many open source projects, we require that contributors provide us with a
-Contributor License Agreement (CLA). By submitting code to the Forem project,
-you are granting us a right to use that code under the terms of the CLA.
-
-Our version of the CLA was adapted from the Microsoft Contributor License
-Agreement, which they generously made available to the public domain under
-Creative Commons CC0 1.0 Universal.
+Licensed under AGPL-3.0.
 
 Any questions, please reach out to the core team.
 
