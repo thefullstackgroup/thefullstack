@@ -13,6 +13,10 @@ Stack to better serve it's members.
 
 ## What is The Full Stack?
 
+The Full Stack is a community of software developers who share their work,
+contribute and give feedback, connect to other developers and teams and build
+a network of true value.
+
 There is a global shortage of 40 million developers worldwide, yet 10.2
 million still get overlooked. We, as developers, love solving problems
 and building software. But we're not good at selling ourselves.
@@ -20,7 +24,7 @@ Developers, very often, undersell themselves on paper. A resume filter
 has an inherent bias toward good academic credentials, yet 64% of the
 global developer population are self-taught, without the "suited"
 academic credentials. We are typically discovered through who you work
-for or who you know, not for what you can build.
+for or who you know, BUT not for what you can build.
 
 <p align="center">
 <br>
@@ -43,10 +47,6 @@ the belief that showing off what you can build will help you grow your
 network and make your best career moves.
 
 We named it _The Full Stack_.
-
-The Full Stack is a community of software developers who share their work,
-contribute their feedback, connect to other developers and teams and build
-a network of value.
 
 ## Core team
 
