@@ -94,7 +94,7 @@ feel free to reach out to anyone on the [core team](#core-team).
 
 ## License
 
-Licensed under AGPL-3.0.
+Licensed under [AGPL-3.0](./LICENSE.md).
 
 Any questions, please reach out to the core team.
 
