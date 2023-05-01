@@ -7,20 +7,44 @@
 <br>
 
 Welcome to The Full Stack codebase, the platform that powers
-[thefullstack.network](https://thefullstack.network). We are so excited to have you here. With your help, we can
-build out the vision of The Full Stack to better serve it's members.
+[thefullstack.network](https://thefullstack.network). We are so excited to
+have you here. With your help, we can build out the vision of The Full
+Stack to better serve it's members.
 
 ## What is The Full Stack?
 
-There is a global shortage of 40 million developers worldwide, yet 10.2 million still get overlooked. We, as developers, love solving problems and building software. But we're not good at selling ourselves. Developers, very often, undersell themselves on paper. A resume filter has an inherent bias toward good academic credentials, yet 64% of the global developer population are self-taught, without the "suited" academic credentials. We are typically discovered through who you work for or who you know, not for what you can build.
+There is a global shortage of 40 million developers worldwide, yet 10.2
+million still get overlooked. We, as developers, love solving problems
+and building software. But we're not good at selling ourselves.
+Developers, very often, undersell themselves on paper. A resume filter
+has an inherent bias toward good academic credentials, yet 64% of the
+global developer population are self-taught, without the "suited"
+academic credentials. We are typically discovered through who you work
+for or who you know, not for what you can build.
 
-Frustrated with how developers get discovered and get connected to other developers and teams, we wanted to make this easier and simpler with a better experience for all.
+<p align="center">
+    <img src="/assets/cover.webp" alt="The Full Stack cover" width="620">
+    <br>
+    <strong>Discover and connect with developers sharing their work</strong>
+</p>
 
-Opportunity comes around when you expand your network. We believe in the power of building your own network. We believe showing off what you can build and expressing your story yields results. And importantly, we believe in human connection, resulting in a better and more inclusive experience for all. We've built a platform centred around community and the belief that showing off what you can build will help you grow your network and make your best career moves.
+Frustrated with how developers get discovered and get connected to other
+developers and teams, we wanted to make this easier and simpler with a
+better experience for all.
+
+Opportunity comes around when you expand your network. We believe in the
+power of building your own network. We believe showing off what you can
+build and expressing your story yields results. And importantly, we
+believe in human connection, resulting in a better and more inclusive
+experience for all. We've built a platform centred around community and
+the belief that showing off what you can build will help you grow your
+network and make your best career moves.
 
 We named it _The Full Stack_.
 
-The Full Stack is a community of software developers who share their work, contribute their feedback, connect to other developers and teams and build a network of value.
+The Full Stack is a community of software developers who share their work,
+contribute their feedback, connect to other developers and teams and build
+a network of value.
 
 ## Developer Documentation
 
@@ -32,6 +56,21 @@ TODO
 - [@philbannon](https://github.com/philbannon)
 - [@jamiegood](https://github.com/jamiegood)
 - [@Henrique-Oliveira](https://github.com/Henrique-Oliveira)
+
+## How can I contribute?
+
+There are many ways to contribute to The Full Stack and we really encourage it.
+You can contribute by:
+
+- Sharing an idea
+- Refactoring
+- Reporting a bug
+- Creating a PR
+- Improving docs
+- Joining the discussion
+
+For more, read our [Contributing Guide](CONTRIBUTING.md). If you need help, feel
+free to reach out to anyone on the [core team](#core-team).
 
 ## License
 
