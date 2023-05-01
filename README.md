@@ -23,9 +23,11 @@ academic credentials. We are typically discovered through who you work
 for or who you know, not for what you can build.
 
 <p align="center">
+<br>
     <img src="/assets/cover.webp" alt="The Full Stack cover" width="620">
     <br>
     <strong>Discover and connect with developers sharing their work</strong>
+    <br>
 </p>
 
 Frustrated with how developers get discovered and get connected to other
