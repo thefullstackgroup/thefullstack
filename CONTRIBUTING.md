@@ -42,13 +42,13 @@ the PR looked at.
 To create a PR, please fork the
 [repository](https://github.com/thefullstackgroup/webapp), make your changes and
 create a new pull request if you want to make an update. If you want to speak to us
-before doing lots of work, please ping anyone from the core team on
-[The Full Stack](https://thefullstack.network) and tell us what you would like to
-work on - we're completely open to chat and we're friendly!
+before doing lots of work, please ping anyone from the [core team](README.md#core-team)
+on The Full Stack and tell us what you would like to work on - we're completely open to
+chat and we're friendly!
 
 ## Roadmap
 
-We are working on Roadmap for The Full Stack. And we would love all ideas and
+We are working on a Roadmap for The Full Stack. And we would love all ideas and
 contributions from the community to be part of the Roadmap.
 
 Happy coding and we massively appreciate your contribution. ❤️
