@@ -75,7 +75,7 @@ own apps on top of The Full Stack API.
 
 ## Running The Full Stack locally
 
-To get setup to run The Full Stack locally, see the README here within the webapp repo.
+To get setup to run The Full Stack locally, see the [README here](https://github.com/thefullstackgroup/webapp) within the webapp repo.
 If you need any help or have any questions on how we can improve, please reach out to
 anyone on the [core team](#core-team). We're friendly and open to chat.
 
